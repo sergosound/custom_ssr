@@ -1,0 +1,24 @@
+{
+  "name": "custom_ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "serve": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergosound/custom_ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergosound/custom_ssr/issues"
+  },
+  "homepage": "https://github.com/sergosound/custom_ssr#readme"
+}
